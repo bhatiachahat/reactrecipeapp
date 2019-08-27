@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reactrecipeapp/static/css/main.90609646.chunk.css",
+    "main.js": "/reactrecipeapp/static/js/main.ef3e1846.chunk.js",
+    "main.js.map": "/reactrecipeapp/static/js/main.ef3e1846.chunk.js.map",
+    "runtime~main.js": "/reactrecipeapp/static/js/runtime~main.1fc17c97.js",
+    "runtime~main.js.map": "/reactrecipeapp/static/js/runtime~main.1fc17c97.js.map",
+    "static/css/2.2543d6d1.chunk.css": "/reactrecipeapp/static/css/2.2543d6d1.chunk.css",
+    "static/js/2.8dadceea.chunk.js": "/reactrecipeapp/static/js/2.8dadceea.chunk.js",
+    "static/js/2.8dadceea.chunk.js.map": "/reactrecipeapp/static/js/2.8dadceea.chunk.js.map",
+    "index.html": "/reactrecipeapp/index.html",
+    "precache-manifest.7227ab4ccca29644072a9f57dcf12cc7.js": "/reactrecipeapp/precache-manifest.7227ab4ccca29644072a9f57dcf12cc7.js",
+    "service-worker.js": "/reactrecipeapp/service-worker.js",
+    "static/css/2.2543d6d1.chunk.css.map": "/reactrecipeapp/static/css/2.2543d6d1.chunk.css.map",
+    "static/css/main.90609646.chunk.css.map": "/reactrecipeapp/static/css/main.90609646.chunk.css.map"
+  }
+}
