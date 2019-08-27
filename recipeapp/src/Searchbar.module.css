@@ -1,0 +1,11 @@
+.search_input{
+    width:40vw;
+    height:7vh;
+    margin-bottom:1vh;
+    margin-left:15vw;
+    margin-top:1vh;
+    padding:1.5vh;
+    border-radius:30px;
+    outline:none;
+    text-decoration: none;
+}
